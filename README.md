@@ -22,7 +22,7 @@ This project analyzes Amazon Electronics product sales data using Python. The da
 - Detect user engagement patterns
 - Visualize insights using histograms and pie chart
 
-🛠️ Tools & Libraries
+**🛠️ Tools & Libraries**
 - Python 3.9.6
 - Jupyter Notebook
 - Pandas
