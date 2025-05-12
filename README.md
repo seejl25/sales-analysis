@@ -28,3 +28,6 @@ This project analyzes Amazon Electronics product sales data using Python. The da
 - Pandas
 - Matplotlib
 - Seaborn
+
+** Future works**
+- Create dashboard using Excel/Tableau
